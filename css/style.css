@@ -134,7 +134,6 @@ a#toTop{
 	margin:2em 0;
 	text-align:left;
 }
-/*-- header_top --*/
 .header {
 	background: #B22222;
 	padding: 1em 0;
@@ -258,7 +257,6 @@ color:#fff !important;
 .top-banner{
 	position:relative;
 }
-/*--- slider-css --*/
 .banner1{
 	background:url(../images/bnr1.jpg) no-repeat 0px 0px;
 	background-size:cover;
@@ -357,7 +355,6 @@ ul.callbacks_tabs.callbacks1_tabs {
 	z-index: 999;
 	left: 46%;
 }
-/*---flexi-slider---*/
  #flexiselDemo1, #flexiselDemo2, #flexiselDemo3 {
 	display: none;
 }
@@ -419,7 +416,6 @@ ul.callbacks_tabs.callbacks1_tabs {
 .game-grid img{
 	
 }
- /*-- latest --*/
 .latest{
 	padding-bottom:4em;
 }
